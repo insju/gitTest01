@@ -1,4 +1,4 @@
-package kr.or.gittestDao;
+package kr.or.gittest.Dao;
 
 public class Dao {
 
